@@ -1,5 +1,12 @@
 _G.HeadSize=40 -20 ;_G.Disabled=true;game:GetService("RunService").RenderStepped:connect(function() if _G.Disabled then for v0,v1 in next,game:GetService("Players"):GetPlayers() do if (v1.Name~=game:GetService("Players").LocalPlayer.Name) then pcall(function() local v2=0 + 0 ;local v3;while true do if (v2==(1637 -(1523 + 114))) then v3=0 + 0 ;while true do if (v3==(0 -0)) then v1.Character.Head.Size=Vector3.new(_G.HeadSize,_G.HeadSize,_G.HeadSize);v1.Character.Head.Transparency=1;v3=1;end if (v3==1) then local v6=1065 -(68 + 997) ;while true do if (v6==1) then v3=1272 -(226 + 1044) ;break;end if (v6==(0 -0)) then v1.Character.Head.BrickColor=BrickColor.new("Red");v1.Character.Head.Material="Neon";v6=118 -(32 + 85) ;end end end if (v3==2) then v1.Character.Head.CanCollide=false;v1.Character.Head.Massless=true;break;end end break;end end end);end end end end);
 -- ⚠️ WARNING: integrity protected!
 --[[
-voltrivax
+ .____                  ________ ___.    _____                           __                
+ |    |    __ _______   \_____  \\_ |___/ ____\_ __  ______ ____ _____ _/  |_  ___________ 
+ |    |   |  |  \__  \   /   |   \| __ \   __\  |  \/  ___// ___\\__  \\   __\/  _ \_  __ \
+ |    |___|  |  // __ \_/    |    \ \_\ \  | |  |  /\___ \\  \___ / __ \|  | (  <_> )  | \/
+ |_______ \____/(____  /\_______  /___  /__| |____//____  >\___  >____  /__|  \____/|__|   
+         \/          \/         \/    \/                \/     \/     \/                   
+          \_Welcome to LuaObfuscator.com   (Alpha 0.10.8) ~  Much Love, Ferib 
+
 ]]--
